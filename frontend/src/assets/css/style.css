@@ -1,0 +1,17 @@
+.list-poll {
+  margin-top: 10px;
+  /* border: 2px black solid; */
+  box-shadow: 0 0 3px black;
+  border-radius: 20px;
+  z-index: 200;
+  position: relative;
+}
+
+.poll-detail {
+  /* top: 100px; */
+  bottom: 50px;
+  padding: 55px 20px 20px 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  z-index: 1;
+}
